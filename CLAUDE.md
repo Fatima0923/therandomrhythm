@@ -23,5 +23,9 @@ deployed directly — this repo is for backups, documentation, and working notes
 
 ## Layout
 
-- `backups/` — Elementor data snapshots taken before edits.
+- `snapshot/` — the baseline, read-only export of the live site (every page's
+  Elementor data, the kit/global styles, and site settings), tagged in git as
+  a recovery point. Not updated on every edit — see `backups/` for that.
+- `backups/` — per-edit Elementor data snapshots taken immediately before
+  changing a page (see rule 1 above).
 - `docs/` — site documentation (e.g. `site-map.md` listing current pages).

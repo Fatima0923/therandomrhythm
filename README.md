@@ -8,5 +8,9 @@ See [CLAUDE.md](CLAUDE.md) for the rules Claude follows when editing this site
 
 ## Layout
 
-- `backups/` — Elementor data snapshots taken before editing a page.
+- `snapshot/` — baseline read-only export of the live site: every page's
+  Elementor data plus the kit/global styles and site settings (see
+  `snapshot/INDEX.md`). Tagged in git as a recovery point.
+- `backups/` — per-edit Elementor data snapshots taken immediately before
+  changing a page.
 - `docs/` — site documentation, including `site-map.md`.

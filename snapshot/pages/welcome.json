@@ -1,0 +1,500 @@
+{
+  "id": 50,
+  "title": "Welcome to The Random Rhythm",
+  "status": "publish",
+  "slug": "welcome",
+  "link": "https://therandomrhythm.com/",
+  "elementor_version": "3.30.3",
+  "elementor_edit_mode": "builder",
+  "elementor_page_settings": {
+    "background_background": "classic",
+    "background_image": {
+      "url": "https://therandomrhythm.com/wp-content/uploads/2022/07/paper-textured-background-bright-scaled.jpg",
+      "id": 275,
+      "size": "",
+      "alt": "",
+      "source": "library"
+    }
+  },
+  "elementor_data": [
+    {
+      "id": "4e0e1ca",
+      "elType": "section",
+      "settings": {
+        "gap": "no",
+        "content_position": "middle",
+        "layout": "full_width",
+        "animation": "none"
+      },
+      "elements": [
+        {
+          "id": "2d81e6b",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "2dbeea6",
+              "elType": "widget",
+              "settings": {
+                "title": "The Random Rhythm",
+                "subtitle": "Trainings | Workshops ",
+                "description": "Proin vel sapien non ipsum commodo laoreet tempor vitae turpis. Nam a tellus nulla. Donec ultricies nulla nec mauris rhoncus, ac porta erat pulvinar. Nunc lobortis lectus in dapibus iaculis.",
+                "button_text": "Learn More",
+                "show_logo": "",
+                "logo_image": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "height": {
+                  "unit": "px",
+                  "size": 600,
+                  "sizes": [],
+                  "value": "600"
+                },
+                "overlay_padding": {
+                  "unit": "px",
+                  "top": "100",
+                  "right": "100",
+                  "bottom": "100",
+                  "left": "100",
+                  "isLinked": true
+                },
+                "overlay_width": {
+                  "unit": "%",
+                  "size": 60,
+                  "sizes": [],
+                  "value": "50"
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "background": {
+                  "url": "https://therandomrhythm.com/wp-content/uploads/2025/07/space-scaled.jpg",
+                  "id": 1108,
+                  "size": "",
+                  "alt": "",
+                  "source": "library"
+                },
+                "title_html_tag": "h4",
+                "text_spacing": {
+                  "unit": "px",
+                  "size": 27,
+                  "sizes": [],
+                  "value": "10"
+                },
+                "border_width": {
+                  "unit": "px",
+                  "size": 2,
+                  "sizes": [],
+                  "value": "1"
+                },
+                "button_spacing": {
+                  "unit": "px",
+                  "size": 100,
+                  "sizes": [],
+                  "value": "50"
+                },
+                "button_radius": {
+                  "unit": "px",
+                  "size": 26,
+                  "sizes": [],
+                  "value": "50"
+                },
+                "__globals__": {
+                  "button_background_color_hover": "globals/colors?id=963d1a2",
+                  "btn_brdr_clr_hover": "globals/colors?id=963d1a2"
+                }
+              },
+              "elements": [],
+              "widgetType": "ucaddon_transparent_split_hero"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "cdddf0f",
+      "elType": "section",
+      "settings": {
+        "margin": {
+          "unit": "px",
+          "top": "100",
+          "right": 0,
+          "bottom": "030",
+          "left": 0,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "36735dd",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "a6fcd0d",
+              "elType": "widget",
+              "settings": {
+                "ekit_heading_title": "Our Key {{Offerings}}",
+                "show_title_border": "yes",
+                "title_float_left": "yes",
+                "title_float_left_width": {
+                  "unit": "%",
+                  "size": 66,
+                  "sizes": []
+                },
+                "ekit_heading_sub_title": "Time has changed",
+                "shadow_text_content": "bussiness",
+                "ekit_heading_title_align": "text_right",
+                "ekit_heading_title_color_hover": "#020202",
+                "title_left_border_width": {
+                  "unit": "px",
+                  "size": 0,
+                  "sizes": []
+                },
+                "title_border_vertical_position": {
+                  "unit": "px",
+                  "size": 6,
+                  "sizes": []
+                },
+                "ekit_heading_focused_title_color_hover": "#D49F2D",
+                "ekit_heading_use_focused_title_bg": "",
+                "ekit_heading_use_title_text_fill": "",
+                "ekit_heading_title_secondary_bg_background": "gradient",
+                "ekit_heading_title_secondary_bg_color_stop": {
+                  "unit": "%",
+                  "size": 16,
+                  "sizes": []
+                },
+                "ekit_heading_seperator_width": {
+                  "unit": "px",
+                  "size": 189,
+                  "sizes": []
+                },
+                "__globals__": {
+                  "ekit_heading_title_color_hover": "",
+                  "ekit_heading_focused_title_color_hover": "globals/colors?id=963d1a2",
+                  "ekit_heading_title_text_decoration_color": "globals/colors?id=963d1a2",
+                  "ekit_heading_title_secondary_bg_color": "globals/colors?id=963d1a2",
+                  "ekit_heading_title_secondary_bg_color_b": "globals/colors?id=text",
+                  "ekit_heading_seperator_color": "globals/colors?id=963d1a2"
+                }
+              },
+              "elements": [],
+              "widgetType": "elementskit-heading"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "a93f890",
+      "elType": "section",
+      "settings": {
+        "structure": "30"
+      },
+      "elements": [
+        {
+          "id": "f3a5f0a",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "ac2d4f1",
+              "elType": "widget",
+              "settings": {
+                "ekit_image_box_style_simple": "style-modern",
+                "ekit_image_box_enable_link": "yes",
+                "ekit_image_box_title_text": "Corporate & Academic Trainings",
+                "ekit_image_box_description_text": "Click edit  to change this text. Lorem ipsum dolor sit amet, cctetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                "ekit_image_box_btn_text": "Learn more ",
+                "ekit_image_box_btn_background_group_background": "classic",
+                "ekit_image_box_btn_background_hover_group_background": "classic",
+                "__globals__": {
+                  "ekit_image_box_button_text_color": "globals/colors?id=secondary",
+                  "ekit_image_box_btn_background_group_color": "globals/colors?id=text",
+                  "ekit_image_box_btn_hover_color": "globals/colors?id=astglobalcolor5",
+                  "ekit_image_box_btn_background_hover_group_color": "globals/colors?id=963d1a2"
+                },
+                "ekit_image_box_image": {
+                  "url": "https://therandomrhythm.com/wp-content/uploads/2025/08/Training-scaled.png",
+                  "id": 1188,
+                  "size": "",
+                  "alt": "",
+                  "source": "library"
+                }
+              },
+              "elements": [],
+              "widgetType": "elementskit-image-box"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "a66b941",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "e3194f9",
+              "elType": "widget",
+              "settings": {
+                "ekit_image_box_style_simple": "style-modern",
+                "ekit_image_box_enable_link": "yes",
+                "ekit_image_box_title_text": "Workshops & Seminars",
+                "ekit_image_box_description_text": "Click edit  to change this text. Lorem ipsum dolor sit amet, cctetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                "ekit_image_box_btn_text": "Learn more ",
+                "ekit_image_box_btn_background_group_background": "classic",
+                "ekit_image_box_btn_background_hover_group_background": "classic",
+                "__globals__": {
+                  "ekit_image_box_btn_hover_color": "globals/colors?id=astglobalcolor5",
+                  "ekit_image_box_btn_background_hover_group_color": "globals/colors?id=963d1a2",
+                  "ekit_image_box_button_text_color": "globals/colors?id=secondary",
+                  "ekit_image_box_btn_background_group_color": "globals/colors?id=text"
+                },
+                "ekit_image_box_image": {
+                  "url": "https://therandomrhythm.com/wp-content/uploads/2025/08/7-scaled.png",
+                  "id": 1191,
+                  "size": "",
+                  "alt": "",
+                  "source": "library"
+                }
+              },
+              "elements": [],
+              "widgetType": "elementskit-image-box"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "5b9c4eb",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "9e4e219",
+              "elType": "widget",
+              "settings": {
+                "ekit_image_box_style_simple": "style-modern",
+                "ekit_image_box_enable_link": "yes",
+                "ekit_image_box_title_text": "Coaching & Consultation ",
+                "ekit_image_box_description_text": "Click edit  to change this text. Lorem ipsum dolor sit amet, cctetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                "ekit_image_box_btn_text": "Learn more ",
+                "ekit_image_box_btn_background_group_background": "classic",
+                "ekit_image_box_button_border_color_group_border": "none",
+                "ekit_image_box_btn_background_hover_group_background": "classic",
+                "__globals__": {
+                  "ekit_image_box_button_text_color": "globals/colors?id=secondary",
+                  "ekit_image_box_btn_background_group_color": "globals/colors?id=text",
+                  "ekit_image_box_btn_hover_color": "globals/colors?id=astglobalcolor5",
+                  "ekit_image_box_btn_background_hover_group_color": "globals/colors?id=963d1a2"
+                },
+                "ekit_image_box_image": {
+                  "url": "https://therandomrhythm.com/wp-content/uploads/2025/08/5-scaled.png",
+                  "id": 1190,
+                  "size": "",
+                  "alt": "",
+                  "source": "library"
+                }
+              },
+              "elements": [],
+              "widgetType": "elementskit-image-box"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "ce5136c",
+      "elType": "section",
+      "settings": {
+        "content_width": {
+          "unit": "px",
+          "size": 1400,
+          "sizes": []
+        },
+        "margin": {
+          "unit": "px",
+          "top": "100",
+          "right": 0,
+          "bottom": "100",
+          "left": 0,
+          "isLinked": true
+        }
+      },
+      "elements": [
+        {
+          "id": "646d8f4",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null,
+            "space_between_widgets": 24,
+            "margin": {
+              "unit": "px",
+              "top": "011",
+              "right": "5",
+              "bottom": "11",
+              "left": "5",
+              "isLinked": false
+            },
+            "padding": {
+              "unit": "px",
+              "top": "15",
+              "right": "15",
+              "bottom": "15",
+              "left": "15",
+              "isLinked": true
+            },
+            "animation": "fadeIn"
+          },
+          "elements": [
+            {
+              "id": "d26a2dc",
+              "elType": "widget",
+              "settings": {
+                "shortcode": "[psac_post_carousel sliderheight=\"320\" slide_show=\"4\" slide_scroll=\"5\"]"
+              },
+              "elements": [],
+              "widgetType": "shortcode"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "f41a301",
+      "elType": "section",
+      "settings": {
+        "content_width": {
+          "unit": "px",
+          "size": 1400,
+          "sizes": []
+        },
+        "height": "min-height",
+        "custom_height": {
+          "unit": "px",
+          "size": 370,
+          "sizes": []
+        },
+        "content_position": "space-around",
+        "overflow": "hidden",
+        "margin": {
+          "unit": "px",
+          "top": "100",
+          "right": 0,
+          "bottom": "100",
+          "left": 0,
+          "isLinked": true
+        }
+      },
+      "elements": [
+        {
+          "id": "adc1720",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null,
+            "content_position": "center",
+            "space_between_widgets": 20,
+            "html_tag": "section"
+          },
+          "elements": [
+            {
+              "id": "401f7d1",
+              "elType": "widget",
+              "settings": {
+                "logo": {
+                  "url": "https://therandomrhythm.com/wp-content/uploads/2022/12/cropped-Our-Logo-logo2.jpg",
+                  "id": 634,
+                  "size": "",
+                  "alt": "",
+                  "source": "library"
+                },
+                "title": "Ready to Make a Move",
+                "sub_title": "",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas finibus egestas. ",
+                "height": {
+                  "unit": "vh",
+                  "size": 62,
+                  "sizes": [],
+                  "value": "100"
+                },
+                "image": {
+                  "url": "https://therandomrhythm.com/wp-content/uploads/2025/08/christopher-gower-vjMgqUkS8q8-unsplash-1-scaled.jpg",
+                  "id": 1135,
+                  "size": "",
+                  "alt": "",
+                  "source": "library"
+                },
+                "image_width": {
+                  "unit": "%",
+                  "size": 50,
+                  "sizes": [],
+                  "value": "50"
+                },
+                "uc_items": [
+                  {
+                    "title": "Book Your Free Discovery Call",
+                    "button_link": {
+                      "url": "#"
+                    },
+                    "_generated_id": "iinwq",
+                    "item_repeater_class": "elementor-repeater-item-iinwq",
+                    "_id": "490470d",
+                    "__globals__": {
+                      "background_color": "globals/colors?id=text"
+                    }
+                  }
+                ],
+                "_grid_column": "2",
+                "_grid_row": "1",
+                "__globals__": {
+                  "button_color": "globals/colors?id=secondary",
+                  "button_color_hover": "globals/colors?id=astglobalcolor5",
+                  "button_background_color": "globals/colors?id=text",
+                  "button_background_color_hover": "globals/colors?id=963d1a2",
+                  "button_border_hover_color": "globals/colors?id=963d1a2",
+                  "background_color": "globals/colors?id=astglobalcolor8"
+                }
+              },
+              "elements": [],
+              "widgetType": "ucaddon_split_hero"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ]
+}

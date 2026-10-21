@@ -1,0 +1,1378 @@
+{
+  "id": 118,
+  "title": "Our Team",
+  "status": "publish",
+  "slug": "our-team",
+  "link": "https://therandomrhythm.com/our-team/",
+  "elementor_version": "3.30.3",
+  "elementor_edit_mode": "builder",
+  "elementor_page_settings": null,
+  "elementor_data": [
+    {
+      "id": "ffd0bc9",
+      "elType": "section",
+      "settings": {
+        "background_color": "#f7f9fb",
+        "margin": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": "1"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "50",
+          "right": "0",
+          "bottom": "100",
+          "left": "0",
+          "isLinked": ""
+        },
+        "_element_id": "xs_team_17",
+        "ekit_all_conditions_list": [
+          {
+            "_id": "66618f0"
+          }
+        ],
+        "ekit_section_parallax_multi_items": [],
+        "padding_tablet": {
+          "unit": "px",
+          "top": "60",
+          "right": "0",
+          "bottom": "60",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "670ba974",
+          "elType": "column",
+          "settings": {
+            "_column_size": "100",
+            "ekit_all_conditions_list": [
+              {
+                "_id": "3c4bd19"
+              }
+            ]
+          },
+          "elements": [
+            {
+              "id": "7feb4da6",
+              "elType": "widget",
+              "settings": {
+                "ekit_heading_title": "Our Main Team",
+                "ekit_heading_focused_title": "",
+                "ekit_heading_sub_title": "",
+                "ekit_heading_extra_title": "<p><span style=\"font-weight: 400;\">Dedicated to pour our hearts out</span></p>",
+                "ekit_heading_seperator_position": "bottom",
+                "ekit_heading_title_align": "center",
+                "ekit_heading_sub_title_border_color_color_stop": {
+                  "unit": "%",
+                  "size": "0",
+                  "sizes": []
+                },
+                "ekit_heading_sub_title_border_color_color_b_stop": {
+                  "unit": "%",
+                  "size": "100",
+                  "sizes": []
+                },
+                "ekit_heading_sub_title_border_color_gradient_angle": {
+                  "unit": "deg",
+                  "size": "180",
+                  "sizes": []
+                },
+                "ekit_heading_sub_title_border_color_xpos": {
+                  "unit": "px",
+                  "size": "0",
+                  "sizes": []
+                },
+                "ekit_heading_sub_title_border_color_xpos_tablet": {
+                  "unit": "px",
+                  "size": "0",
+                  "sizes": []
+                },
+                "ekit_heading_sub_title_border_color_xpos_mobile": {
+                  "unit": "px",
+                  "size": "0",
+                  "sizes": []
+                },
+                "ekit_heading_sub_title_border_color_ypos": {
+                  "unit": "px",
+                  "size": "0",
+                  "sizes": []
+                },
+                "ekit_heading_sub_title_border_color_ypos_tablet": {
+                  "unit": "px",
+                  "size": "0",
+                  "sizes": []
+                },
+                "ekit_heading_sub_title_border_color_ypos_mobile": {
+                  "unit": "px",
+                  "size": "0",
+                  "sizes": []
+                },
+                "ekit_heading_sub_title_border_color_bg_width": {
+                  "unit": "%",
+                  "size": "100",
+                  "sizes": []
+                },
+                "ekit_heading_sub_title_border_color_bg_width_tablet": {
+                  "unit": "px",
+                  "size": "",
+                  "sizes": []
+                },
+                "ekit_heading_sub_title_border_color_bg_width_mobile": {
+                  "unit": "px",
+                  "size": "",
+                  "sizes": []
+                },
+                "ekit_heading_seperator_width": {
+                  "unit": "px",
+                  "size": "",
+                  "sizes": []
+                },
+                "ekit_heading_background_color_stop": {
+                  "unit": "%",
+                  "size": "0",
+                  "sizes": []
+                },
+                "ekit_heading_background_color_b_stop": {
+                  "unit": "%",
+                  "size": "100",
+                  "sizes": []
+                },
+                "ekit_heading_background_gradient_angle": {
+                  "unit": "deg",
+                  "size": "180",
+                  "sizes": []
+                },
+                "ekit_heading_background_xpos": {
+                  "unit": "px",
+                  "size": "0",
+                  "sizes": []
+                },
+                "ekit_heading_background_xpos_tablet": {
+                  "unit": "px",
+                  "size": "0",
+                  "sizes": []
+                },
+                "ekit_heading_background_xpos_mobile": {
+                  "unit": "px",
+                  "size": "0",
+                  "sizes": []
+                },
+                "ekit_heading_background_ypos": {
+                  "unit": "px",
+                  "size": "0",
+                  "sizes": []
+                },
+                "ekit_heading_background_ypos_tablet": {
+                  "unit": "px",
+                  "size": "0",
+                  "sizes": []
+                },
+                "ekit_heading_background_ypos_mobile": {
+                  "unit": "px",
+                  "size": "0",
+                  "sizes": []
+                },
+                "ekit_heading_background_bg_width": {
+                  "unit": "%",
+                  "size": "100",
+                  "sizes": []
+                },
+                "ekit_heading_background_bg_width_tablet": {
+                  "unit": "px",
+                  "size": "",
+                  "sizes": []
+                },
+                "ekit_heading_background_bg_width_mobile": {
+                  "unit": "px",
+                  "size": "",
+                  "sizes": []
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "40",
+                  "left": "0",
+                  "isLinked": ""
+                },
+                "ekit_heading_title_tag": "h3",
+                "ekit_heading_section_extra_title_show": "yes",
+                "shadow_text_content": "bussiness",
+                "ekit_all_conditions_list": [
+                  {
+                    "_id": "9645f00"
+                  }
+                ],
+                "ekit_heading_seperator_image": {
+                  "id": 351,
+                  "url": "https://therandomrhythm.com/wp-content/uploads/2022/07/placeholder-294.png"
+                },
+                "ekit_heading_sub_title_show": "",
+                "show_shadow_text": "",
+                "ekit_heading_focused_title_typography_typography": "custom"
+              },
+              "elements": [],
+              "widgetType": "elementskit-heading"
+            },
+            {
+              "id": "2d017fe4",
+              "elType": "section",
+              "settings": {
+                "structure": "20",
+                "ekit_all_conditions_list": [
+                  {
+                    "_id": "d7cf1d6"
+                  }
+                ],
+                "ekit_section_parallax_multi_items": [],
+                "content_width": {
+                  "unit": "px",
+                  "size": 781,
+                  "sizes": []
+                },
+                "gap": "wider",
+                "background_overlay_background": "classic",
+                "background_overlay_color_stop": {
+                  "unit": "%",
+                  "size": 10,
+                  "sizes": []
+                },
+                "background_overlay_color_b_stop": {
+                  "unit": "%",
+                  "size": 86,
+                  "sizes": []
+                },
+                "background_overlay_gradient_angle": {
+                  "unit": "deg",
+                  "size": 250,
+                  "sizes": []
+                },
+                "masks_patterns_apply_mask": "",
+                "masks_patterns_apply_pattern": "",
+                "masks_patterns_pattern_type": "pattern_3",
+                "masks_patterns_mask_pattern_blend_mode": "luminosity",
+                "__globals__": {
+                  "background_overlay_color": "globals/colors?id=astglobalcolor5",
+                  "background_overlay_color_b": "globals/colors?id=text",
+                  "gradient_animation_color_one": "globals/colors?id=963d1a2",
+                  "gradient_animation_color_two": "globals/colors?id=astglobalcolor2",
+                  "gradient_animation_color_three": "globals/colors?id=astglobalcolor2",
+                  "gradient_animation_color_four": "globals/colors?id=963d1a2",
+                  "background_color": "globals/colors?id=astglobalcolor5"
+                },
+                "height_inner": "full",
+                "content_position": "middle",
+                "background_background": "classic",
+                "background_slideshow_background_position": "center center",
+                "background_slideshow_ken_burns": "yes",
+                "background_overlay_color_b": "#F9F6F1",
+                "background_overlay_opacity": {
+                  "unit": "px",
+                  "size": 0.39,
+                  "sizes": []
+                },
+                "gradient_animation_color_one": "#D49F2D",
+                "gradient_animation_color_two": "#3a3a3a",
+                "gradient_animation_color_three": "#3a3a3a",
+                "gradient_animation_color_four": "#D49F2D",
+                "margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": 0,
+                  "bottom": "0",
+                  "left": 0,
+                  "isLinked": true
+                }
+              },
+              "elements": [
+                {
+                  "id": "3d12013c",
+                  "elType": "column",
+                  "settings": {
+                    "_column_size": 50,
+                    "ekit_all_conditions_list": [
+                      {
+                        "_id": "c6ee8d3"
+                      }
+                    ],
+                    "_inline_size": null,
+                    "align": "center",
+                    "space_between_widgets": 20
+                  },
+                  "elements": [
+                    {
+                      "id": "3d96f266",
+                      "elType": "widget",
+                      "settings": {
+                        "ekit_team_name": "Fatima Habib",
+                        "ekit_team_position": "Founder | Content Curator | Trainer",
+                        "ekit_team_description": "Hi!                                                                                                                                          I'm a multitasking mom of a fun-loving 6-year-old and 6-month-old boys who keep me on my toes!\n\nAs a PhD scholar, my research delves into the intersection of technology and human behavior, exploring personal and social implications of emerging technologies. I'm also a business analysis aspirant, eager to apply my skills to real-world challenges. \n\nWhen I'm not studying or playing with my sons, I love diving into movies and music, and am passionate about the ever-evolving world of marketing. \n\nJoin me on my journey to learn and grow together!",
+                        "ekit_team_phone": "",
+                        "ekit_team_email": "fatima.habib0923@gmail.com",
+                        "ekit_team_social_icons": [
+                          {
+                            "icon": "icon icon-facebook",
+                            "label": "Facebook",
+                            "_id": "b37fad5",
+                            "ekit_team_icon": "icon icon-facebook",
+                            "ekit_team_label": "Facebook",
+                            "ekit_team_social_icon_color": "",
+                            "ekit_team_social_icon_bg_color": "",
+                            "ekit_team_socialmedia_border_width": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_border_width_tablet": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_border_width_mobile": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_icon_normal_text_shadow_text_shadow": {
+                              "horizontal": "0",
+                              "vertical": "0",
+                              "blur": "10",
+                              "color": "rgba(0,0,0,0.3)"
+                            },
+                            "ekit_team_socialmedai_list_box_shadow_box_shadow": {
+                              "horizontal": "0",
+                              "vertical": "0",
+                              "blur": "10",
+                              "spread": "0",
+                              "color": "rgba(0,0,0,0.5)"
+                            },
+                            "ekit_team_socialmedia_icon_hover_text_shadow_text_shadow": {
+                              "horizontal": "0",
+                              "vertical": "0",
+                              "blur": "10",
+                              "color": "rgba(0,0,0,0.3)"
+                            },
+                            "ekit_team_socialmedai_list_box_shadow_hover_box_shadow": {
+                              "horizontal": "0",
+                              "vertical": "0",
+                              "blur": "10",
+                              "spread": "0",
+                              "color": "rgba(0,0,0,0.5)"
+                            },
+                            "ekit_team_socialmedia_border_hover_width": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_border_hover_width_tablet": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_border_hover_width_mobile": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_icon_color_tablet": "",
+                            "ekit_team_socialmedia_icon_color_mobile": "",
+                            "ekit_team_socialmedia_icon_bg_color_tablet": "",
+                            "ekit_team_socialmedia_icon_bg_color_mobile": "",
+                            "ekit_team_socialmedia_icon_hover_color_tablet": "",
+                            "ekit_team_socialmedia_icon_hover_color_mobile": "",
+                            "ekit_team_socialmedia_icon_hover_bg_color_tablet": "",
+                            "ekit_team_socialmedia_icon_hover_bg_color_mobile": "",
+                            "ekit_team_icons": {
+                              "value": "fab fa-facebook-f",
+                              "library": "fa-brands"
+                            },
+                            "__fa4_migrated": {
+                              "ekit_team_icons": true
+                            },
+                            "ekit_team_link": {
+                              "url": "https://www.facebook.com/fati.habib.923",
+                              "is_external": "on",
+                              "nofollow": "",
+                              "custom_attributes": ""
+                            }
+                          },
+                          {
+                            "ekit_team_icon": "icon icon-twitter",
+                            "ekit_team_label": "Instagram",
+                            "ekit_team_link": {
+                              "url": "https://www.instagram.com/fatima_habib23/",
+                              "is_external": "on",
+                              "nofollow": "",
+                              "custom_attributes": ""
+                            },
+                            "ekit_team_social_icon_color": "",
+                            "ekit_team_social_icon_bg_color": "",
+                            "_id": "1a3ab10",
+                            "ekit_team_socialmedia_border_width": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_border_width_tablet": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_border_width_mobile": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_icon_normal_text_shadow_text_shadow": {
+                              "horizontal": "0",
+                              "vertical": "0",
+                              "blur": "10",
+                              "color": "rgba(0,0,0,0.3)"
+                            },
+                            "ekit_team_socialmedai_list_box_shadow_box_shadow": {
+                              "horizontal": "0",
+                              "vertical": "0",
+                              "blur": "10",
+                              "spread": "0",
+                              "color": "rgba(0,0,0,0.5)"
+                            },
+                            "ekit_team_socialmedia_icon_hover_text_shadow_text_shadow": {
+                              "horizontal": "0",
+                              "vertical": "0",
+                              "blur": "10",
+                              "color": "rgba(0,0,0,0.3)"
+                            },
+                            "ekit_team_socialmedai_list_box_shadow_hover_box_shadow": {
+                              "horizontal": "0",
+                              "vertical": "0",
+                              "blur": "10",
+                              "spread": "0",
+                              "color": "rgba(0,0,0,0.5)"
+                            },
+                            "ekit_team_socialmedia_border_hover_width": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_border_hover_width_tablet": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_border_hover_width_mobile": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_icon_color_tablet": "",
+                            "ekit_team_socialmedia_icon_color_mobile": "",
+                            "ekit_team_socialmedia_icon_bg_color_tablet": "",
+                            "ekit_team_socialmedia_icon_bg_color_mobile": "",
+                            "ekit_team_socialmedia_icon_hover_color_tablet": "",
+                            "ekit_team_socialmedia_icon_hover_color_mobile": "",
+                            "ekit_team_socialmedia_icon_hover_bg_color_tablet": "",
+                            "ekit_team_socialmedia_icon_hover_bg_color_mobile": "",
+                            "ekit_team_icons": {
+                              "value": "fab fa-instagram",
+                              "library": "fa-brands"
+                            },
+                            "__fa4_migrated": {
+                              "ekit_team_icons": true
+                            },
+                            "ekit_team_socialmedia_icon_hover_color": "#F00000",
+                            "ekit_team_socialmedia_icon_hover_bg_color": "#FFFFFF"
+                          },
+                          {
+                            "ekit_team_icon": "icon icon-linkedin",
+                            "ekit_team_label": "LinkedIn",
+                            "ekit_team_link": {
+                              "url": "https://www.linkedin.com/in/fatima-habib-05bb213a/",
+                              "is_external": "on",
+                              "nofollow": "",
+                              "custom_attributes": ""
+                            },
+                            "ekit_team_social_icon_color": "",
+                            "ekit_team_social_icon_bg_color": "",
+                            "_id": "7f57670",
+                            "ekit_team_socialmedia_border_width": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_border_width_tablet": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_border_width_mobile": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_icon_normal_text_shadow_text_shadow": {
+                              "horizontal": "0",
+                              "vertical": "0",
+                              "blur": "10",
+                              "color": "rgba(0,0,0,0.3)"
+                            },
+                            "ekit_team_socialmedai_list_box_shadow_box_shadow": {
+                              "horizontal": "0",
+                              "vertical": "0",
+                              "blur": "10",
+                              "spread": "0",
+                              "color": "rgba(0,0,0,0.5)"
+                            },
+                            "ekit_team_socialmedia_icon_hover_text_shadow_text_shadow": {
+                              "horizontal": "0",
+                              "vertical": "0",
+                              "blur": "10",
+                              "color": "rgba(0,0,0,0.3)"
+                            },
+                            "ekit_team_socialmedai_list_box_shadow_hover_box_shadow": {
+                              "horizontal": "0",
+                              "vertical": "0",
+                              "blur": "10",
+                              "spread": "0",
+                              "color": "rgba(0,0,0,0.5)"
+                            },
+                            "ekit_team_socialmedia_border_hover_width": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_border_hover_width_tablet": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_border_hover_width_mobile": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_icon_color_tablet": "",
+                            "ekit_team_socialmedia_icon_color_mobile": "",
+                            "ekit_team_socialmedia_icon_bg_color_tablet": "",
+                            "ekit_team_socialmedia_icon_bg_color_mobile": "",
+                            "ekit_team_socialmedia_icon_hover_color_tablet": "",
+                            "ekit_team_socialmedia_icon_hover_color_mobile": "",
+                            "ekit_team_socialmedia_icon_hover_bg_color_tablet": "",
+                            "ekit_team_socialmedia_icon_hover_bg_color_mobile": "",
+                            "ekit_team_icons": {
+                              "value": "fasicon icon-linkedin",
+                              "library": "fa-solid"
+                            },
+                            "__fa4_migrated": {
+                              "ekit_team_icons": true
+                            }
+                          },
+                          {
+                            "ekit_team_icon": "fa fa-youtube",
+                            "ekit_team_label": "Youtube",
+                            "ekit_team_link": {
+                              "url": "https://www.youtube.com/channel/UC9wTvS89ieQ6RNuSq_H4aow",
+                              "is_external": "on",
+                              "nofollow": "",
+                              "custom_attributes": ""
+                            },
+                            "ekit_team_social_icon_color": "",
+                            "ekit_team_social_icon_bg_color": "",
+                            "_id": "5dcb084",
+                            "ekit_team_socialmedia_border_width": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_border_width_tablet": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_border_width_mobile": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_icon_normal_text_shadow_text_shadow": {
+                              "horizontal": "0",
+                              "vertical": "0",
+                              "blur": "10",
+                              "color": "rgba(0,0,0,0.3)"
+                            },
+                            "ekit_team_socialmedai_list_box_shadow_box_shadow": {
+                              "horizontal": "0",
+                              "vertical": "0",
+                              "blur": "10",
+                              "spread": "0",
+                              "color": "rgba(0,0,0,0.5)"
+                            },
+                            "ekit_team_socialmedia_icon_hover_text_shadow_text_shadow": {
+                              "horizontal": "0",
+                              "vertical": "0",
+                              "blur": "10",
+                              "color": "rgba(0,0,0,0.3)"
+                            },
+                            "ekit_team_socialmedai_list_box_shadow_hover_box_shadow": {
+                              "horizontal": "0",
+                              "vertical": "0",
+                              "blur": "10",
+                              "spread": "0",
+                              "color": "rgba(0,0,0,0.5)"
+                            },
+                            "ekit_team_socialmedia_border_hover_width": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_border_hover_width_tablet": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_border_hover_width_mobile": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_icon_color_tablet": "",
+                            "ekit_team_socialmedia_icon_color_mobile": "",
+                            "ekit_team_socialmedia_icon_bg_color_tablet": "",
+                            "ekit_team_socialmedia_icon_bg_color_mobile": "",
+                            "ekit_team_socialmedia_icon_hover_color_tablet": "",
+                            "ekit_team_socialmedia_icon_hover_color_mobile": "",
+                            "ekit_team_socialmedia_icon_hover_bg_color_tablet": "",
+                            "ekit_team_socialmedia_icon_hover_bg_color_mobile": "",
+                            "ekit_team_icons": {
+                              "value": "fab fa-youtube",
+                              "library": "fa-brands"
+                            },
+                            "__fa4_migrated": {
+                              "ekit_team_icons": true
+                            },
+                            "ekit_team_socialmedia_icon_hover_color": "#D40303",
+                            "ekit_team_socialmedia_icon_hover_bg_color": "#FFFFFF"
+                          }
+                        ],
+                        "ekit_team_style": "overlay",
+                        "ekit_team_image_radius": {
+                          "unit": "%",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": "1"
+                        },
+                        "ekit_team_content_padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": "1"
+                        },
+                        "ekit_team_content_max_weight": {
+                          "unit": "%",
+                          "size": "100"
+                        },
+                        "ekit_team_image_weight": {
+                          "unit": "%",
+                          "size": "100"
+                        },
+                        "ekit_team_background_content_hover": "rgba(18,48,117,0.61)",
+                        "_padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": "1"
+                        },
+                        "ekit_team_image": {
+                          "id": 660,
+                          "url": "https://therandomrhythm.com/wp-content/uploads/2023/06/Mama-and-Kabeer.jpeg",
+                          "alt": "",
+                          "source": "library"
+                        },
+                        "ekit_team_short_description": "",
+                        "ekit_team_content_inner_padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": ""
+                        },
+                        "ekit_team_position_margin_bottom": {
+                          "unit": "px",
+                          "size": "0",
+                          "sizes": []
+                        },
+                        "ekit_all_conditions_list": [
+                          {
+                            "_id": "ce69879"
+                          }
+                        ],
+                        "ekit_team_show_short_description": "yes",
+                        "ekit_team_thumbnail_size": "full"
+                      },
+                      "elements": [],
+                      "widgetType": "elementskit-team"
+                    }
+                  ],
+                  "isInner": "1"
+                },
+                {
+                  "id": "485fe354",
+                  "elType": "column",
+                  "settings": {
+                    "_column_size": 50,
+                    "ekit_all_conditions_list": [
+                      {
+                        "_id": "ad3af45"
+                      }
+                    ],
+                    "_inline_size": null
+                  },
+                  "elements": [
+                    {
+                      "id": "76d3200f",
+                      "elType": "widget",
+                      "settings": {
+                        "ekit_team_name": "Awais Khan",
+                        "ekit_team_position": "Co- Founder | COO | Vocal Artist by Passion",
+                        "ekit_team_description": "With a background in marketing and information technology. Awais Khan possesses a deep passion for singing and cricket, exuding enthusiasm in both fields. With his exceptional vocal talents, he captivates audiences with his remarkable voice. As a vocal artist, he will contribute his musical expertise to the Random Rhythm. Alongside his creative pursuits, he also works as a marketing manager, blending his business acumen with his artistic flair. This dynamic combination allows him to excel in any project or team.",
+                        "ekit_team_phone": "",
+                        "ekit_team_email": "muhmmad.awaiskhan@live.com",
+                        "ekit_team_social_icons": [
+                          {
+                            "icon": "icon icon-facebook",
+                            "label": "Facebook",
+                            "_id": "b37fad5",
+                            "ekit_team_icon": "icon icon-facebook",
+                            "ekit_team_label": "Facebook",
+                            "ekit_team_social_icon_color": "",
+                            "ekit_team_social_icon_bg_color": "",
+                            "ekit_team_socialmedia_border_width": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_border_width_tablet": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_border_width_mobile": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_icon_normal_text_shadow_text_shadow": {
+                              "horizontal": "0",
+                              "vertical": "0",
+                              "blur": "10",
+                              "color": "rgba(0,0,0,0.3)"
+                            },
+                            "ekit_team_socialmedai_list_box_shadow_box_shadow": {
+                              "horizontal": "0",
+                              "vertical": "0",
+                              "blur": "10",
+                              "spread": "0",
+                              "color": "rgba(0,0,0,0.5)"
+                            },
+                            "ekit_team_socialmedia_icon_hover_text_shadow_text_shadow": {
+                              "horizontal": "0",
+                              "vertical": "0",
+                              "blur": "10",
+                              "color": "rgba(0,0,0,0.3)"
+                            },
+                            "ekit_team_socialmedai_list_box_shadow_hover_box_shadow": {
+                              "horizontal": "0",
+                              "vertical": "0",
+                              "blur": "10",
+                              "spread": "0",
+                              "color": "rgba(0,0,0,0.5)"
+                            },
+                            "ekit_team_socialmedia_border_hover_width": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_border_hover_width_tablet": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_border_hover_width_mobile": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_icon_color_tablet": "",
+                            "ekit_team_socialmedia_icon_color_mobile": "",
+                            "ekit_team_socialmedia_icon_bg_color_tablet": "",
+                            "ekit_team_socialmedia_icon_bg_color_mobile": "",
+                            "ekit_team_socialmedia_icon_hover_color_tablet": "",
+                            "ekit_team_socialmedia_icon_hover_color_mobile": "",
+                            "ekit_team_socialmedia_icon_hover_bg_color_tablet": "",
+                            "ekit_team_socialmedia_icon_hover_bg_color_mobile": "",
+                            "ekit_team_icons": {
+                              "value": "fab fa-facebook-f",
+                              "library": "fa-brands"
+                            },
+                            "ekit_team_link": {
+                              "url": "https://www.facebook.com/awaiskhan010",
+                              "is_external": "on",
+                              "nofollow": "",
+                              "custom_attributes": ""
+                            },
+                            "__fa4_migrated": {
+                              "ekit_team_icons": true
+                            }
+                          },
+                          {
+                            "ekit_team_icon": "icon icon-twitter",
+                            "ekit_team_label": "Instagram",
+                            "ekit_team_link": {
+                              "url": "https://www.instagram.com/awais_khan09/",
+                              "is_external": "on",
+                              "nofollow": "",
+                              "custom_attributes": ""
+                            },
+                            "ekit_team_social_icon_color": "",
+                            "ekit_team_social_icon_bg_color": "",
+                            "_id": "1a3ab10",
+                            "ekit_team_socialmedia_border_width": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_border_width_tablet": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_border_width_mobile": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_icon_normal_text_shadow_text_shadow": {
+                              "horizontal": "0",
+                              "vertical": "0",
+                              "blur": "10",
+                              "color": "rgba(0,0,0,0.3)"
+                            },
+                            "ekit_team_socialmedai_list_box_shadow_box_shadow": {
+                              "horizontal": "0",
+                              "vertical": "0",
+                              "blur": "10",
+                              "spread": "0",
+                              "color": "rgba(0,0,0,0.5)"
+                            },
+                            "ekit_team_socialmedia_icon_hover_text_shadow_text_shadow": {
+                              "horizontal": "0",
+                              "vertical": "0",
+                              "blur": "10",
+                              "color": "rgba(0,0,0,0.3)"
+                            },
+                            "ekit_team_socialmedai_list_box_shadow_hover_box_shadow": {
+                              "horizontal": "0",
+                              "vertical": "0",
+                              "blur": "10",
+                              "spread": "0",
+                              "color": "rgba(0,0,0,0.5)"
+                            },
+                            "ekit_team_socialmedia_border_hover_width": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_border_hover_width_tablet": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_border_hover_width_mobile": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_icon_color_tablet": "",
+                            "ekit_team_socialmedia_icon_color_mobile": "",
+                            "ekit_team_socialmedia_icon_bg_color_tablet": "",
+                            "ekit_team_socialmedia_icon_bg_color_mobile": "",
+                            "ekit_team_socialmedia_icon_hover_color_tablet": "",
+                            "ekit_team_socialmedia_icon_hover_color_mobile": "",
+                            "ekit_team_socialmedia_icon_hover_bg_color_tablet": "",
+                            "ekit_team_socialmedia_icon_hover_bg_color_mobile": "",
+                            "ekit_team_icons": {
+                              "value": "fab fa-instagram",
+                              "library": "fa-brands"
+                            },
+                            "ekit_team_socialmedia_icon_hover_color": "#D32F1F",
+                            "ekit_team_socialmedia_icon_hover_bg_color": "#FFFFFF",
+                            "__fa4_migrated": {
+                              "ekit_team_icons": true
+                            }
+                          },
+                          {
+                            "ekit_team_icon": "icon icon-linkedin",
+                            "ekit_team_label": "LinkedIn",
+                            "ekit_team_link": {
+                              "url": "https://linkedin.com",
+                              "is_external": "on",
+                              "nofollow": "",
+                              "custom_attributes": ""
+                            },
+                            "ekit_team_social_icon_color": "",
+                            "ekit_team_social_icon_bg_color": "",
+                            "_id": "7f57670",
+                            "ekit_team_socialmedia_border_width": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_border_width_tablet": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_border_width_mobile": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_icon_normal_text_shadow_text_shadow": {
+                              "horizontal": "0",
+                              "vertical": "0",
+                              "blur": "10",
+                              "color": "rgba(0,0,0,0.3)"
+                            },
+                            "ekit_team_socialmedai_list_box_shadow_box_shadow": {
+                              "horizontal": "0",
+                              "vertical": "0",
+                              "blur": "10",
+                              "spread": "0",
+                              "color": "rgba(0,0,0,0.5)"
+                            },
+                            "ekit_team_socialmedia_icon_hover_text_shadow_text_shadow": {
+                              "horizontal": "0",
+                              "vertical": "0",
+                              "blur": "10",
+                              "color": "rgba(0,0,0,0.3)"
+                            },
+                            "ekit_team_socialmedai_list_box_shadow_hover_box_shadow": {
+                              "horizontal": "0",
+                              "vertical": "0",
+                              "blur": "10",
+                              "spread": "0",
+                              "color": "rgba(0,0,0,0.5)"
+                            },
+                            "ekit_team_socialmedia_border_hover_width": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_border_hover_width_tablet": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_border_hover_width_mobile": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_icon_color_tablet": "",
+                            "ekit_team_socialmedia_icon_color_mobile": "",
+                            "ekit_team_socialmedia_icon_bg_color_tablet": "",
+                            "ekit_team_socialmedia_icon_bg_color_mobile": "",
+                            "ekit_team_socialmedia_icon_hover_color_tablet": "",
+                            "ekit_team_socialmedia_icon_hover_color_mobile": "",
+                            "ekit_team_socialmedia_icon_hover_bg_color_tablet": "",
+                            "ekit_team_socialmedia_icon_hover_bg_color_mobile": "",
+                            "ekit_team_icons": {
+                              "value": "fasicon icon-linkedin",
+                              "library": "fa-solid"
+                            },
+                            "__fa4_migrated": {
+                              "ekit_team_icons": true
+                            }
+                          },
+                          {
+                            "ekit_team_icon": "fa fa-youtube",
+                            "ekit_team_label": "Youtube",
+                            "ekit_team_link": {
+                              "url": "https://www.youtube.com/channel/UC9wTvS89ieQ6RNuSq_H4aow",
+                              "is_external": "on",
+                              "nofollow": "",
+                              "custom_attributes": ""
+                            },
+                            "ekit_team_social_icon_color": "",
+                            "ekit_team_social_icon_bg_color": "",
+                            "_id": "5dcb084",
+                            "ekit_team_socialmedia_border_width": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_border_width_tablet": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_border_width_mobile": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_icon_normal_text_shadow_text_shadow": {
+                              "horizontal": "0",
+                              "vertical": "0",
+                              "blur": "10",
+                              "color": "rgba(0,0,0,0.3)"
+                            },
+                            "ekit_team_socialmedai_list_box_shadow_box_shadow": {
+                              "horizontal": "0",
+                              "vertical": "0",
+                              "blur": "10",
+                              "spread": "0",
+                              "color": "rgba(0,0,0,0.5)"
+                            },
+                            "ekit_team_socialmedia_icon_hover_text_shadow_text_shadow": {
+                              "horizontal": "0",
+                              "vertical": "0",
+                              "blur": "10",
+                              "color": "rgba(0,0,0,0.3)"
+                            },
+                            "ekit_team_socialmedai_list_box_shadow_hover_box_shadow": {
+                              "horizontal": "0",
+                              "vertical": "0",
+                              "blur": "10",
+                              "spread": "0",
+                              "color": "rgba(0,0,0,0.5)"
+                            },
+                            "ekit_team_socialmedia_border_hover_width": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_border_hover_width_tablet": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_border_hover_width_mobile": {
+                              "unit": "px",
+                              "top": "",
+                              "right": "",
+                              "bottom": "",
+                              "left": "",
+                              "isLinked": "1"
+                            },
+                            "ekit_team_socialmedia_icon_color_tablet": "",
+                            "ekit_team_socialmedia_icon_color_mobile": "",
+                            "ekit_team_socialmedia_icon_bg_color_tablet": "",
+                            "ekit_team_socialmedia_icon_bg_color_mobile": "",
+                            "ekit_team_socialmedia_icon_hover_color_tablet": "",
+                            "ekit_team_socialmedia_icon_hover_color_mobile": "",
+                            "ekit_team_socialmedia_icon_hover_bg_color_tablet": "",
+                            "ekit_team_socialmedia_icon_hover_bg_color_mobile": "",
+                            "ekit_team_icons": {
+                              "value": "fab fa-youtube",
+                              "library": "fa-brands"
+                            },
+                            "ekit_team_socialmedia_icon_hover_color": "#EE0707",
+                            "ekit_team_socialmedia_icon_hover_bg_color": "#FFFFFF",
+                            "__fa4_migrated": {
+                              "ekit_team_icons": true
+                            }
+                          }
+                        ],
+                        "ekit_team_style": "overlay",
+                        "ekit_team_content_padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": "1"
+                        },
+                        "ekit_team_image_radius": {
+                          "unit": "%",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": "1"
+                        },
+                        "ekit_team_background_content_hover": "rgba(18,48,117,0.61)",
+                        "_padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": "1"
+                        },
+                        "ekit_team_image_weight": {
+                          "unit": "%",
+                          "size": "100",
+                          "sizes": []
+                        },
+                        "ekit_team_image": {
+                          "id": 580,
+                          "url": "https://therandomrhythm.com/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-06-at-12.32.33-PM-e1670312111292.jpeg",
+                          "alt": "",
+                          "source": "library"
+                        },
+                        "ekit_team_short_description": "",
+                        "ekit_team_content_max_weight": {
+                          "unit": "%",
+                          "size": "100"
+                        },
+                        "ekit_team_content_inner_padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": ""
+                        },
+                        "ekit_team_position_margin_bottom": {
+                          "unit": "px",
+                          "size": "0",
+                          "sizes": []
+                        },
+                        "ekit_all_conditions_list": [
+                          {
+                            "_id": "427cf89"
+                          }
+                        ],
+                        "ekit_team_show_short_description": "yes",
+                        "ekit_team_thumbnail_size": "full"
+                      },
+                      "elements": [],
+                      "widgetType": "elementskit-team"
+                    }
+                  ],
+                  "isInner": "1"
+                }
+              ],
+              "isInner": "1"
+            },
+            {
+              "id": "5a46f3b5",
+              "elType": "section",
+              "settings": {
+                "ekit_all_conditions_list": [
+                  {
+                    "_id": "debf28b"
+                  }
+                ],
+                "ekit_section_parallax_multi_items": []
+              },
+              "elements": [
+                {
+                  "id": "0655a94",
+                  "elType": "column",
+                  "settings": {
+                    "_column_size": 100,
+                    "_inline_size": null
+                  },
+                  "elements": [],
+                  "isInner": true
+                }
+              ],
+              "isInner": "1"
+            }
+          ],
+          "isInner": ""
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "6e3ed3e6",
+      "elType": "section",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "50",
+          "right": "0",
+          "bottom": "100",
+          "left": "0",
+          "isLinked": ""
+        },
+        "_element_id": "xs_team_1",
+        "ekit_all_conditions_list": [
+          {
+            "_id": "bf20f62"
+          }
+        ],
+        "ekit_section_parallax_multi_items": []
+      },
+      "elements": [
+        {
+          "id": "4ff660c",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ]
+}
