@@ -1,0 +1,21 @@
+{
+  "note": "Equivalent of Elementor's Tools -> Import/Export Kit, taken via MCP tools since no API/MCP reaches that wp-admin-only UI flow. Captured 2026-10-25, right after the Atomic Editor (V4) was switched on, before any Phase 1 design-system work began.",
+  "v3_kit_page_settings": {
+    "source": "snapshot/site/kit.json (elementor_library id 5, \"Default Kit\") — unchanged since baseline-2026-10-21, see that file for full content",
+    "summary": "system_colors (Primary #1A1F4B, Secondary #F9F6F1, Text #2D2A2A, Accent #D4AF37), custom_colors (New Item #1 #FF582E, Glitzy Gold #D49F2D), system_typography (Primary: Playfair Display 700, Secondary/Text/Accent: Poppins)"
+  },
+  "v4_global_variables": {
+    "variables": {},
+    "total": 0,
+    "watermark": 0
+  },
+  "v4_global_classes": {
+    "classes": []
+  },
+  "v4_default_styles_by_tag": {
+    "h1": "",
+    "p": "",
+    "a": "",
+    "button": ""
+  }
+}
